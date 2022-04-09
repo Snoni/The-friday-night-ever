@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"SSNC",
+			"jonic",
+			[
+				15,
+				255,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "funny rapping with Sonic The HedgeHog",
+	"weekName": "Funny Rapping Number 2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

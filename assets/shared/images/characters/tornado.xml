@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tornado.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eltorando0000" x="0" y="0" width="1755" height="2181" pivotX="2360.2" pivotY="1175" frameX="-1665" frameY="0" frameWidth="5084" frameHeight="2181"/>
+	<SubTexture name="eltorando0001" x="1755" y="0" width="2713" height="2181" frameX="-1186" frameY="0" frameWidth="5084" frameHeight="2181"/>
+	<SubTexture name="eltorando0002" x="4468" y="0" width="847" height="2181" frameX="-2119" frameY="0" frameWidth="5084" frameHeight="2181"/>
+	<SubTexture name="eltorando0003" x="0" y="2181" width="5084" height="2181"/>
+	<SubTexture name="eltorando0004" x="5084" y="2181" width="192" height="2181" frameX="-2445" frameY="0" frameWidth="5084" frameHeight="2181"/>
+</TextureAtlas>

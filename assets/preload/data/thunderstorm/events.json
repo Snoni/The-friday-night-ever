@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "bridge",
+		"player1": "bf",
+		"player2": "edd",
+		"player3": null,
+		"events": [
+			[
+				9795.91836734694,
+				[
+					[
+						"Set Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				63673.469387755,
+				[
+					[
+						"Change Character",
+						"dad",
+						"oldedds"
+					]
+				]
+			],
+			[
+				63673.469387755,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				73469.387755102,
+				[
+					[
+						"Set Camera Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				73545.9183673469,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-swagger"
+					]
+				]
+			],
+			[
+				83265.306122449,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				83284.4387755102,
+				[
+					[
+						"Change Character",
+						"dad",
+						"edd"
+					]
+				]
+			],
+			[
+				83303.5714285714,
+				[
+					[
+						"Set Camera Zoom",
+						"0.77",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 196,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Thunderstorm"
+	}
+}

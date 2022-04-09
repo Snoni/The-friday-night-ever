@@ -1,0 +1,369 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "bridge",
+		"player1": "ballin",
+		"player2": "bf-flip",
+		"player3": null,
+		"events": [
+			[
+				2450.09074410163,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"300"
+					]
+				]
+			],
+			[
+				59074.4101633393,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59142.4682395644,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59210.5263157894,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59278.5843920145,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59346.6424682395,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59414.7005444645,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59482.7586206896,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59550.8166969146,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				59618.8747731397,
+				[
+					[
+						"Change Character",
+						"bf",
+						"dorkly"
+					]
+				]
+			],
+			[
+				96642.4682395644,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ballin"
+					]
+				]
+			],
+			[
+				147481.851179673,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bambi"
+					]
+				]
+			],
+			[
+				217785.843920145,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ballin"
+					]
+				]
+			],
+			[
+				217853.90199637,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-flip"
+					]
+				]
+			],
+			[
+				233030.852994555,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bambi"
+					]
+				]
+			],
+			[
+				233098.91107078,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bf-flip"
+					]
+				]
+			],
+			[
+				241061.70598911,
+				[
+					[
+						"Change Character",
+						"bf",
+						"actual death"
+					]
+				]
+			],
+			[
+				278221.415607985,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bambi"
+					]
+				]
+			],
+			[
+				296733.212341197,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ballin"
+					]
+				]
+			],
+			[
+				383303.085299456,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pea"
+					]
+				]
+			],
+			[
+				419918.330308532,
+				[
+					[
+						"Change Character",
+						"bf",
+						"majin"
+					]
+				]
+			],
+			[
+				436932.849364793,
+				[
+					[
+						"Change Character",
+						"bf",
+						"exe"
+					]
+				]
+			],
+			[
+				454015.42649728,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pea"
+					]
+				]
+			],
+			[
+				462114.33756806,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lordx"
+					]
+				]
+			],
+			[
+				497776.769509985,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ballin"
+					]
+				]
+			],
+			[
+				567604.355716883,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tornado"
+					]
+				]
+			],
+			[
+				597277.676951003,
+				[
+					[
+						"Change Character",
+						"bf",
+						"exe"
+					]
+				]
+			],
+			[
+				597822.141560803,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ballin"
+					]
+				]
+			],
+			[
+				657577.132486394,
+				[
+					[
+						"Change Character",
+						"bf",
+						"majin"
+					]
+				]
+			],
+			[
+				671869.328493654,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ballin"
+					]
+				]
+			],
+			[
+				705490.018148827,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tornado"
+					]
+				]
+			],
+			[
+				742649.727767702,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lordx"
+					]
+				]
+			],
+			[
+				767831.215970969,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ballin"
+					]
+				]
+			],
+			[
+				817649.727767703,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lordx"
+					]
+				]
+			],
+			[
+				954582.577132497,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ron"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 220.4,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "fuckyou"
+	}
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BambiScrewed.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="292" height="289" pivotX="118.65" pivotY="134.15" frameX="-4" frameY="0" frameWidth="296" frameHeight="289"/>
+	<SubTexture name="Idle0001" x="292" y="0" width="291" height="285" frameX="-1" frameY="-4" frameWidth="296" frameHeight="289"/>
+	<SubTexture name="Idle0002" x="583" y="0" width="286" height="281" frameX="-8" frameY="-8" frameWidth="296" frameHeight="289"/>
+	<SubTexture name="Idle0003" x="869" y="0" width="295" height="278" frameX="0" frameY="-11" frameWidth="296" frameHeight="289"/>
+	<SubTexture name="down0000" x="1164" y="0" width="291" height="298" pivotX="132.85" pivotY="252.6" frameX="-2" frameY="0" frameWidth="301" frameHeight="298"/>
+	<SubTexture name="down0001" x="1455" y="0" width="300" height="290" frameX="0" frameY="-8" frameWidth="301" frameHeight="298"/>
+	<SubTexture name="down0002" x="0" y="298" width="294" height="283" frameX="-1" frameY="-15" frameWidth="301" frameHeight="298"/>
+	<SubTexture name="down0003" x="294" y="298" width="299" height="274" frameX="-2" frameY="-24" frameWidth="301" frameHeight="298"/>
+	<SubTexture name="left0000" x="593" y="298" width="314" height="290" pivotX="73.15" pivotY="224.6" frameX="-1" frameY="-7" frameWidth="318" frameHeight="297"/>
+	<SubTexture name="left0001" x="907" y="298" width="314" height="292" frameX="-4" frameY="-5" frameWidth="318" frameHeight="297"/>
+	<SubTexture name="left0002" x="1221" y="298" width="309" height="297" frameX="-3" frameY="0" frameWidth="318" frameHeight="297"/>
+	<SubTexture name="left0003" x="1530" y="298" width="313" height="294" frameX="0" frameY="-3" frameWidth="318" frameHeight="297"/>
+	<SubTexture name="right0000" x="0" y="595" width="300" height="294" pivotX="-241.6" pivotY="155.3" frameX="-6" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="right0001" x="300" y="595" width="300" height="294" frameX="-1" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="right0002" x="600" y="595" width="301" height="294" frameX="-9" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="right0003" x="901" y="595" width="307" height="294" frameX="0" frameY="0" frameWidth="310" frameHeight="294"/>
+	<SubTexture name="up0000" x="1208" y="595" width="306" height="300" pivotX="235.55" pivotY="255.55" frameX="-10" frameY="-14" frameWidth="320" frameHeight="314"/>
+	<SubTexture name="up0001" x="1514" y="595" width="317" height="306" frameX="-3" frameY="-8" frameWidth="320" frameHeight="314"/>
+	<SubTexture name="up0002" x="0" y="901" width="294" height="310" frameX="-14" frameY="-4" frameWidth="320" frameHeight="314"/>
+	<SubTexture name="up0003" x="294" y="901" width="318" height="314" frameX="0" frameY="0" frameWidth="320" frameHeight="314"/>
+</TextureAtlas>

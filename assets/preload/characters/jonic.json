@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jonic left anim"
+		},
+		{
+			"offsets": [
+				30,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jonic down anim"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jonic idle"
+		},
+		{
+			"offsets": [
+				55,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jonic up anim"
+		},
+		{
+			"offsets": [
+				13,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jonic right anim"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/jonic",
+	"position": [
+		250,
+		400
+	],
+	"healthicon": "jonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		128,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

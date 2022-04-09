@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bridge",
+		"player1": "bf",
+		"player2": "jonic",
+		"player3": null,
+		"events": [
+			[
+				6000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.77",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-swagger"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Set Camera Zoom",
+						"0.77",
+						""
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Set Camera Zoom",
+						"0.77",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "ssnc"
+	}
+}

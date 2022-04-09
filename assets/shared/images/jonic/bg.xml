@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bganim0000" x="0" y="0" width="2059" height="1372" pivotX="-2057.65" pivotY="0"/>
+	<SubTexture name="bganim0001" x="2059" y="0" width="2059" height="1372"/>
+	<SubTexture name="bganim0002" x="4118" y="0" width="2059" height="1372"/>
+	<SubTexture name="bganim0003" x="0" y="1372" width="2059" height="1372"/>
+	<SubTexture name="bganim0004" x="2059" y="1372" width="2059" height="1372"/>
+	<SubTexture name="bganim0005" x="4118" y="1372" width="2059" height="1372"/>
+	<SubTexture name="bganim0006" x="0" y="2744" width="2059" height="1371" frameX="0" frameY="0" frameWidth="2059" frameHeight="1372"/>
+</TextureAtlas>
